@@ -1,6 +1,6 @@
 
 
-👋 Hello, world! I'm [Your Name], a passionate web developer with a knack for crafting clean and efficient code. I'm on a mission to build awesome web experiences that leave a lasting impression.
+👋 Hello, world! I'm Satyam Kumar, a passionate web developer with a knack for crafting clean and efficient code. I'm on a mission to build awesome web experiences that leave a lasting impression.
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python, Django
